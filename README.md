@@ -1,4 +1,4 @@
-# LogModule
+# ModuleToLog
 
 Pliki kodu znajdują się w folderze ModuleToLog.
 
